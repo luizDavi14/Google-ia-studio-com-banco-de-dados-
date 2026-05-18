@@ -1,0 +1,8 @@
+{
+  "name": "EventPro Dashboard & Loyalty",
+  "description": "Professional event management platform with real-time CRM, Kanban, and automated loyalty scoring system integrated with Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
